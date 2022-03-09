@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @svenkuijper
 - 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning javascrip/python!
+- 🌱 I’m currently learning javascript/python!
 - 💞️ I’m looking to collaborate on many platforms.
 - 📫 How to reach me: svenkuijper@ziggo.nl
 
